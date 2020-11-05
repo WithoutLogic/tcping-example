@@ -1,5 +1,6 @@
 {
     "disableAutoUpdate": false,
-    "name": "tcping",
-    "description": "Description goes here."
+    "name": "tcping-example",
+    "description": "Пример использования утилиты tcping.exe с Tera Toolbox",
+    "servers": ["https://raw.githubusercontent.com/WithoutLogic/tcping-example/master/"]
 }
